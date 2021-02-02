@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <AssemblyName>Dapper</AssemblyName>
+    <AssemblyName>Dapper_Fix</AssemblyName>
     <Title>Dapper</Title>
     <PackageTags>orm;sql;micro-orm</PackageTags>
     <Description>A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc..</Description>
