@@ -1,4 +1,0 @@
-[submodule "Dapper"]
-	path = Dapper
-	url = https://github.com/azyobuzin/dapper-dot-net.git
-	branch = MultiMapConversionAN
